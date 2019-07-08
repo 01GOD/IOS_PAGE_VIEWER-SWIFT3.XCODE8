@@ -4,7 +4,7 @@
 //
 //  Created by GOD on 3/21/17.
 //  Copyright © 2017 ALL ONE SUN. All rights reserved.
-//
+//  Updated to Swift 5
 
 import UIKit
 
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
