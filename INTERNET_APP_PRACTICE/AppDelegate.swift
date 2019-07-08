@@ -4,7 +4,7 @@
 //
 //  Created by GOD on 3/21/17.
 //  Copyright © 2017 ALL ONE SUN. All rights reserved.
-//  Updated to Swift 5
+// 
 
 import UIKit
 
